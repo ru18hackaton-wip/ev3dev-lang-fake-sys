@@ -10,6 +10,7 @@ class_path = {
         'touch_sensor'    : 'lego-sensor/sensor{0}',
         'ultrasonic_sensor'    : 'lego-sensor/sensor{0}',
         'light_sensor'    : 'lego-sensor/sensor{0}',
+        'color_sensor'    : 'lego-sensor/sensor{0}',
         'medium_motor'    : 'tacho-motor/motor{0}',
         'large_motor'    : 'tacho-motor/motor{0}'
         }
