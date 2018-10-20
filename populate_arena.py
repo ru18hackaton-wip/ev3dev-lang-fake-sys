@@ -8,6 +8,7 @@ import micropython_patch
 class_path = {
         'infrared_sensor' : 'lego-sensor/sensor{0}',
         'touch_sensor'    : 'lego-sensor/sensor{0}',
+        'ultrasonic_sensor'    : 'lego-sensor/sensor{0}',
         'medium_motor'    : 'tacho-motor/motor{0}',
         'large_motor'    : 'tacho-motor/motor{0}'
         }
